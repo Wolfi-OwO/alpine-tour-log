@@ -6,7 +6,7 @@
 tour profile with elevation data, distance, difficulty and a photo gallery, rendered
 on an interactive map.**
 
-[![CI](https://github.com/Wolfi-OwO/alpinfex-wanderapplication/actions/workflows/ci.yml/badge.svg)](https://github.com/Wolfi-OwO/alpinfex-wanderapplication/actions/workflows/ci.yml)
+[![CI](https://github.com/Wolfi-OwO/alpinfex/actions/workflows/ci.yml/badge.svg)](https://github.com/Wolfi-OwO/alpinfex/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white)
@@ -17,7 +17,7 @@ on an interactive map.**
 
 </div>
 
-`alpinfex-wanderapplication` is the Alpine experience dashboard ("Alpinfex") for hiking,
+`alpinfex` is the Alpine experience dashboard ("Alpinfex") for hiking,
 high-alpine, ski and bike tours. Tours are uploaded as GPX files; the backend parses the
 track, derives elevation up/down/min/max, distance, and difficulty ratings, and stores
 everything in MongoDB. The React frontend lists tours, shows each track on a Leaflet map

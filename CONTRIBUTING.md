@@ -12,8 +12,8 @@ That said, if you want to build on it, here is how to get it running.
 Prerequisites: Node.js ≥ 20 and a local MongoDB.
 
 ```bash
-git clone https://github.com/Wolfi-OwO/alpinfex-wanderapplication
-cd alpinfex-wanderapplication
+git clone https://github.com/Wolfi-OwO/alpinfex
+cd alpinfex
 
 # Backend
 cd app/server
@@ -77,7 +77,7 @@ CI runs exactly those commands on Node 20 against a `mongo:7` service container.
 
 ## Reporting bugs
 
-Use [GitHub issues](https://github.com/Wolfi-OwO/alpinfex-wanderapplication/issues).
+Use [GitHub issues](https://github.com/Wolfi-OwO/alpinfex/issues).
 For security problems, **do not** open a public issue — see
 [SECURITY.md](SECURITY.md).
 

@@ -17,7 +17,7 @@ warranted, lands on `main` and nowhere else.
 Please **do not** open a public issue for security vulnerabilities.
 
 Report privately via GitHub's
-[private vulnerability reporting](https://github.com/Wolfi-OwO/alpinfex-wanderapplication/security/advisories/new),
+[private vulnerability reporting](https://github.com/Wolfi-OwO/alpinfex/security/advisories/new),
 or email **KoflerPhillip@outlook.com** with:
 
 - a description of the issue and its impact,
